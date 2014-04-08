@@ -3,9 +3,10 @@
   <groupId>org.minnal</groupId>
   <artifactId>minnal-admin</artifactId>
   <versioning>
+    <release>1.1.3</release>
     <versions>
-      <version>1.1.3-SNAPSHOT</version>
+      <version>1.1.3</version>
     </versions>
-    <lastUpdated>20140408065630</lastUpdated>
+    <lastUpdated>20140408192630</lastUpdated>
   </versioning>
 </metadata>
