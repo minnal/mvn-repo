@@ -4,8 +4,8 @@
   <artifactId>minnal</artifactId>
   <versioning>
     <versions>
-      <version>0.9.6-SNAPSHOT</version>
+      <version>1.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130731072632</lastUpdated>
+    <lastUpdated>20140702085239</lastUpdated>
   </versioning>
 </metadata>
