@@ -3,10 +3,9 @@
   <groupId>org.minnal</groupId>
   <artifactId>minnal</artifactId>
   <versioning>
-    <release>2.0.0</release>
     <versions>
-      <version>2.0.0</version>
+      <version>2.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140926194235</lastUpdated>
+    <lastUpdated>20141115075318</lastUpdated>
   </versioning>
 </metadata>
